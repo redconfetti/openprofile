@@ -1,0 +1,17 @@
+---
+name: Jane Doe
+emailContacts:
+  - type: "Home"
+    email: "janedoe@example.com"
+  - type: "Work"
+    email: "j.e.doe@example.com"
+phoneContacts:
+  - countryCode: "1"
+    areaCode: 555
+    prefix: 555
+    lineNumber: 5555
+websites:
+  - type: "Personal"
+    url: "http://www.example.com/janedoe/"
+  - type: "Professional"
+    url: "http://www.example-blog.com/"

@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "EditorConfig.editorconfig",              // EditorConfig Support for Visual Studio Code
+    "shd101wyy.markdown-preview-enhanced",    // Markdown Preview Enhanced ported to vscode
+    "DavidAnson.vscode-markdownlint",         // Markdown linting and style checking for Visual Studio Code
+  ]
+}
